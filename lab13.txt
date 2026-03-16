@@ -1,0 +1,6 @@
+﻿Build started at 09:45 AM...
+1>------ Build started: Project: rectangle class with construtor overloading, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>rectangle class with construtor overloading -> C:\7179c#\rectangle class with construtor overloading\rectangle class with construtor overloading\bin\Debug\net8.0\rectangle class with construtor overloading.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 09:45 AM and took 00.307 seconds ==========
